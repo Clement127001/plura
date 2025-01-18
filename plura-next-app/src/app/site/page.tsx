@@ -14,7 +14,7 @@ const LandingPage = () => {
         </div>
         <div className="flex justify-center items-center relative md:mt-[-70px]">
           <Image
-            src={"/assets/preview.png"}
+            src={"/assets/brandingPageAppPreview.webp"}
             alt="banner image"
             height={1200}
             width={1200}
